@@ -1,4 +1,4 @@
-# ROS TEST !
+# ROS TEST 1
 ## Aim: Picking up an object from one position and putting it down in another position
 
 This is the first ROS test I conducted. In this test, there are two stages involved. Before running the code, the ROS MASTER needs to be on. This can be done by launching the interbotix_sdk launch file. 
